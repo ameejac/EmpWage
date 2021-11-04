@@ -6,7 +6,6 @@ namespace employeewages
 {
     class employee
     {
-	 //uc7 compute employee wage
         //Constants
         const int IS_PART_TIME = 1;
         const int IS_FULL_TIME = 2;
