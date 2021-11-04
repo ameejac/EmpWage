@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\EmployeeWageassignment\EmployeeWageassignment\bin\Debug\netcoreapp3.1\EmployeeWageassignment.exe
+C:\Users\Dell\source\repos\EmployeeWageassignment\EmployeeWageassignment\bin\Debug\netcoreapp3.1\EmployeeWageassignment.deps.json
+C:\Users\Dell\source\repos\EmployeeWageassignment\EmployeeWageassignment\bin\Debug\netcoreapp3.1\EmployeeWageassignment.runtimeconfig.json
+C:\Users\Dell\source\repos\EmployeeWageassignment\EmployeeWageassignment\bin\Debug\netcoreapp3.1\EmployeeWageassignment.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\EmployeeWageassignment\EmployeeWageassignment\bin\Debug\netcoreapp3.1\EmployeeWageassignment.dll
+C:\Users\Dell\source\repos\EmployeeWageassignment\EmployeeWageassignment\bin\Debug\netcoreapp3.1\EmployeeWageassignment.pdb
+C:\Users\Dell\source\repos\EmployeeWageassignment\EmployeeWageassignment\obj\Debug\netcoreapp3.1\EmployeeWageassignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\EmployeeWageassignment\EmployeeWageassignment\obj\Debug\netcoreapp3.1\EmployeeWageassignment.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\EmployeeWageassignment\EmployeeWageassignment\obj\Debug\netcoreapp3.1\EmployeeWageassignment.AssemblyInfo.cs
+C:\Users\Dell\source\repos\EmployeeWageassignment\EmployeeWageassignment\obj\Debug\netcoreapp3.1\EmployeeWageassignment.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\EmployeeWageassignment\EmployeeWageassignment\obj\Debug\netcoreapp3.1\EmployeeWageassignment.dll
+C:\Users\Dell\source\repos\EmployeeWageassignment\EmployeeWageassignment\obj\Debug\netcoreapp3.1\EmployeeWageassignment.pdb
+C:\Users\Dell\source\repos\EmployeeWageassignment\EmployeeWageassignment\obj\Debug\netcoreapp3.1\EmployeeWageassignment.genruntimeconfig.cache
